@@ -102,3 +102,7 @@ df['Two Two'] = df['Two Two']/n
 df['Two One'] = df['Two One']/n
 df['One Two'] = df['One Two']/n
 df['One One'] = df['One One']/n
+df 
+
+#%% 
+df
