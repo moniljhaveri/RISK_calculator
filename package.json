@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "description": "This is the standalone calculator app ",
   "main": "main.js",
+    "scripts": {
+    "start": "electron ."
+  },
   "dependencies": {
     "electron": "^1.7.9"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/moniljhaveri/RISK_calculator.git"
